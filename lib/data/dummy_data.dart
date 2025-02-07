@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pixels/models/product.dart';
+import 'package:breakout_room_8_pixel/models/product.dart';
 
 const pixelList = [
   Product(

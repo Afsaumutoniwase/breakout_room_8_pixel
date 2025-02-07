@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:pixels/data/dummy_data.dart';
-import 'package:pixels/models/product.dart';
-import 'package:pixels/screens/product_detail_screen.dart';
-import 'package:pixels/widgets/card_container.dart';
+import 'package:breakout_room_8_pixel/data/dummy_data.dart';
+import 'package:breakout_room_8_pixel/models/product.dart';
+import 'package:breakout_room_8_pixel/screens/product_page.dart';
+import 'package:breakout_room_8_pixel/widgets/card_container.dart';
 
 class Homepage extends StatelessWidget {
   const Homepage({super.key});
